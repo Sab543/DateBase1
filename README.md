@@ -2,3 +2,4 @@
 # Таблицыhttps://docs.google.com/document/d/1PvdnOBHc4wiAfBNuvmkqYh_ffqbIH6Qh58vT8zN2Hr4/edit?usp=drivesdk
 # 12.09.22https://docs.google.com/document/d/14xfZQ-RNVXwkkmODzC7ih34vVCOFRa0omIAW-0iZJrE/edit?usp=drivesdk
 # erдиаграммыhttps://docs.google.com/document/d/1s7FoZztq59SWUN3xjmaEjUochP9pd8YwA53bNIBS_FI/edit?usp=drivesdk
+# Mysqlбдhttps://docs.google.com/document/d/1lwxfN5D4ZPXKVMUGV-VUAEIYTW3VTPOkWdP4Wxokfwo/edit?usp=drivesdk
