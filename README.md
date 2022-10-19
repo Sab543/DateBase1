@@ -6,3 +6,4 @@
 # Централизованная Архитектураhttps://docs.google.com/document/d/1gVNidiTMc6Our_lxZ3Aga3EFfO_O6xCuLnig_xEAg3c/edit?usp=drivesdk
 # ЗапросыЗолотоваИвановаПисьменскаяhttps://docs.google.com/document/d/1Ckhn8C6ri2AxnmwG6E3EKr1YGah1rndi/edit?usp=drivesdk&ouid=115306694905956160009&rtpof=true&sd=true
 # 30.09.22https://docs.google.com/document/d/1ESHtKeK_-cmhzokMR_ReyCU-3RA1E03o/edit?usp=drivesdk&ouid=115306694905956160009&rtpof=true&sd=true
+# фитнесhttps://docs.google.com/document/d/1jFAR4EjHnt3KLbJLY_geFGNdoyuBJhK7bkrT9Kngmck/edit?usp=drivesdk
