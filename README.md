@@ -8,3 +8,5 @@
 # 30.09.22https://docs.google.com/document/d/1ESHtKeK_-cmhzokMR_ReyCU-3RA1E03o/edit?usp=drivesdk&ouid=115306694905956160009&rtpof=true&sd=true
 # фитнесhttps://drive.google.com/drive/folders/1Pf1zDD6gHR8FRkshXZk9MJj7UaLJhqZT
 # запросы авиакомпании https://docs.google.com/document/d/1kJAdbW4EeNNRK9fEYrs6MJK9-gQ9Plmy/edit?usp=drivesdk&ouid=115306694905956160009&rtpof=true&sd=true
+# Загрузка Google Таблиц
+https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
