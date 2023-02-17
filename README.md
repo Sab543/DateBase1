@@ -12,3 +12,4 @@
 https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # Дэм экзамен. Импорт данных в бдhttps://docs.google.com/document/d/1ZN_mPtFtzmJvNUpR99ZIGspSexRWTpWfi0WLmbviMUo/edit?usp=drivesdk
 # создание бд 13.02 https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk
+# импорт данных Петербург https://docs.google.com/document/d/1CkEJ7vHSTus2Bz6nQY2SBK4elxsYaDbREnbj9-yS60w/edit?usp=drivesdk
