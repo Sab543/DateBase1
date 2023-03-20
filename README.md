@@ -15,3 +15,4 @@ https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?us
 # импорт данных Петербург https://docs.google.com/document/d/1CkEJ7vHSTus2Bz6nQY2SBK4elxsYaDbREnbj9-yS60w/edit?usp=drivesdk
 # курс по SQL https://docs.google.com/document/d/1V9HTQoGmtx26cO2pBEUoYRRN9s1f8ePTie2vG7cGaV8/edit?usp=drivesdk
 #автосервис https://docs.google.com/spreadsheets/d/1JLeN5heBIvBeP3WTwEYMJtt1fanKW46L/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true
+# дэмэкзамен PyCharm https://docs.google.com/document/d/1D8btAVqykagC6jhSV9_sj-vtF-0sM1eer8YAyo4HcsM/edit?usp=sharing
